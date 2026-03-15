@@ -1,0 +1,1 @@
+# Experiment10&#10;&#10;This directory holds Experiment10 from the Full-Stack Experiments project.&#10;&#10;## Setup&#10;- Cloned/pushed via BLACKBOXAI automation.&#10;- Empty initial state; add your experiment files here.&#10;&#10;## Status&#10;Pushed to branch: `blackboxai/experiment10`&#10;
